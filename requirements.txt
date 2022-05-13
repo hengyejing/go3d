@@ -1,0 +1,8 @@
+numpy
+tensorflow
+trimesh
+matplotlib
+argparse
+pyyaml
+scikit-learn
+
